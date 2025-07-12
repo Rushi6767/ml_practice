@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# OS-specific
+.DS_Store
+Thumbs.db
